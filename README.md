@@ -30,3 +30,30 @@ The system is implemented in C++ with a focus on modularity. Key components incl
 
 •	Invoice Module: Generates and prints invoices based on rental transactions
 
+# System Architecture Diagram
+![image](https://github.com/ShravanDalavi/Car-Rental-System/assets/172488772/c61def88-9746-4170-8039-1061ef63b190)
+# Data Flow Diagram
+![image](https://github.com/ShravanDalavi/Car-Rental-System/assets/172488772/61b8ea41-d809-41cd-9cdb-6dfb7ec1243f)
+
+# Integration with Car Rental System
+Integration points within the system include:
+•	User Management: Integrates with the registration and login functionalities to ensure secure access.
+
+•	Car Management: Interfaces with the car inventory to manage availability and details.
+
+•	Booking System: Connects with both user and car management to facilitate bookings.
+
+•	Return System: Works with the booking system to process returns and update statuses.
+
+•	Invoice Generation: Compiles data from bookings to create accurate invoices.
+# Conclusion
+The Car Rental Management System is a comprehensive solution for managing car rentals, encompassing user management, car inventory, booking, returning, and invoicing. Its modular architecture ensures that the system is maintainable and scalable, allowing for future enhancements and integrations.
+
+# References
+•	[C++ documentation: cplusplus.com](https://cplusplus.com/)
+
+•	Object-Oriented Programming principles: OOP Concepts
+
+
+
+
