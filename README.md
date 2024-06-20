@@ -49,6 +49,7 @@ Key components include:
 
 # Integration with Car Rental System
 Integration points within the system include:
+
 •	User Management: Integrates with the registration and login functionalities to ensure secure access.
 
 •	Car Management: Interfaces with the car inventory to manage availability and details.
