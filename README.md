@@ -1,7 +1,17 @@
 # Car-Rental-System
+![image](https://github.com/ShravanDalavi/Car-Rental-System/assets/172488772/2fee2c38-3f46-474c-8a5b-7a80a970a84e)
+![image](https://github.com/ShravanDalavi/Car-Rental-System/assets/172488772/972f9fd4-db0c-414e-93d5-d0d2f8d57820)
 
-# Introduction
-The Car Rental Management System is designed to manage the rental process of vehicles efficiently. It includes functionalities for user registration, car listing, booking, returning cars, and generating invoices. The system aims to streamline the rental process, ensuring a seamless experience for both the rental company and the customers.
+-LOGIN DETAILS-
+
+PASSWORD: pass
+
+IMPORTANT
+
+DO NOT DELETE ANY TEXT FILES OF THE PROJECT FOLDER.
+ALL THE TEXT FILES ARE LINKED WITH THE SYSTEM!!
+IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US
+
 # System Architecture
 The architecture of the Car Rental Management System is based on a modular design, where different components handle specific functionalities such as user management, vehicle management, and transaction processing. The system is developed using C++, leveraging object-oriented principles for better organization and maintainability.
 # Features
@@ -46,14 +56,14 @@ Integration points within the system include:
 •	Return System: Works with the booking system to process returns and update statuses.
 
 •	Invoice Generation: Compiles data from bookings to create accurate invoices.
-# Conclusion
-The Car Rental Management System is a comprehensive solution for managing car rentals, encompassing user management, car inventory, booking, returning, and invoicing. Its modular architecture ensures that the system is maintainable and scalable, allowing for future enhancements and integrations.
 
-# References
-•	[C++ documentation: cplusplus.com](https://cplusplus.com/)
-
-•	Object-Oriented Programming principles: OOP Concepts
-
+## Contributors
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub: https://github.com/ShravanDalavi
+- Ashwini Sonawane
+  - Contact: ashwinisonawane@gmail.com
+  - GitHub: https://github.com/SonawaneAshwini
 
 
 
