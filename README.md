@@ -29,6 +29,7 @@ The architecture of the Car Rental Management System is based on a modular desig
 
 #  Implementation
 The system is implemented in C++ with a focus on modularity. 
+
 Key components include:
 
 •	User Management Module: Handles user registration, login, and user data storage.
