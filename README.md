@@ -16,7 +16,9 @@ ALL THE TEXT FILES ARE LINKED WITH THE SYSTEM!!
 IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US
 
 # System Architecture
+
 The architecture of the Car Rental Management System is based on a modular design, where different components handle specific functionalities such as user management, vehicle management, and transaction processing. The system is developed using C++, leveraging object-oriented principles for better organization and maintainability.
+
 # Features
 •	User Registration and Authentication: Allows new users to register and existing users to log in.
 
